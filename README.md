@@ -42,15 +42,15 @@ Desenvolver um **Modelo Preditivo de Preços** (com base no _[dataset](dataset/t
  'calculado_host_listings_count': 2,
  'disponibilidade_365': 355}
 ```
-
-Qual preço seria sugerido?
-A
-A
-Qual seria sugerido?
+Qual seria a sugestão de preço?
 
 ## Execução do Projeto
 
 1 - Clone o repositório:
+
+```sh
+git clone https://github.com/leandrocsiqueira/LH_CD_LEANDRO_SIQUEIRA.git
+```
 
 2 - Instale os requisitos/dependências do projeto: 
 
